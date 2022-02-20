@@ -54,4 +54,3 @@ print(v1 + v2)
 print(v1 * 3)
 print(v2 * 10)
 print(bool(v1),bool(v2),bool(v3))
- 
